@@ -35,5 +35,4 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
 
-__NOTE:__ In the notebook, you will need to train CNNs in PyTorch.  If your CNN is taking too long to train, feel free to pursue one of the options under the section __Accelerating the Training Process__ below.
-
+__NOTE:__ In the notebook, you will need to train CNNs in PyTorch. 
