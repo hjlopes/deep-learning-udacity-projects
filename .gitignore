@@ -6,6 +6,8 @@ __pycache__/
 # IPython Notebook
 .ipynb_checkpoints
 
+# Pycharm
+.idea
 
 # Temporary data files
 *.html
