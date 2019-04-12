@@ -1,8 +1,8 @@
 # Project Overview
 
-In this project a Deep Convolutional Generative Adversarial Networks (DGAN) is developed in order to generate "face" celebrity faces.
+In this project a Deep Convolutional Generative Adversarial Networks (DGAN) was developed in order to generate celebrity faces.
 
-The best results results were achieved with 4 layer Discriminator and Generator with layer depths of 64.
+The best results were achieved with 4 layer Discriminator and Generator with layer depths of 64.
 
 A sample of the results after 50 epochs can be seen here:
 
