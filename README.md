@@ -11,6 +11,7 @@ Navigate to each project folder to find the solutions:
 2. [Dog Breed Classifier](project-dog-breed-classification) - Project to create a dog breed classifier using a CNN built from scratch and transfer learning.
 3. [TV Script generation](project-tv-script-generation) - Project use LSTM networks to generate TV scripts based on the Seinfeld tv show scripts. 
 4. [Face Generation](project-face-generation) - Project to generate faces using GANs.
+5. [Deployment of Sentiment Analysis](https://github.com/hjlopes/sagemaker-sentiment-analysis) - Deployment in Amazon AWS of a RNN to detect the sentiment of movie reviews. *Note: This project has a dedicated repository due to its nature.* 
 
 ## Project Instructions
 
